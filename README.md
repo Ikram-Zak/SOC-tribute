@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <main id="main">
 <head>
